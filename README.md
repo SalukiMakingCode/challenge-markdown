@@ -37,7 +37,5 @@ Yes, that happend to me
 
 
 # To do after putting online :
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-The links should have the following structure:
-<< previous || YOUR NAME || next >>
+
+<< [GitHub Freyling Aurélien](https://freyaln.github.io/challenge-markdown/) previous || YOUR NAME || next >>
