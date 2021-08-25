@@ -1,8 +1,6 @@
 # challenge-markdown
 Ceci est un challenge
 
-test
-
 # David Van Goidtsnoven
 * Live your life as a dream, and make this dream a reality *
 
