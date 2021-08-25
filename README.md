@@ -38,5 +38,5 @@ Yes, that happend to me
 
 # To do after putting online :
 
-<< [GitHub Freyling Aurélien](https://freyaln.github.io/challenge-markdown/) previous || YOUR NAME || next >>
+<< [previous](https://freyaln.github.io/challenge-markdown/) || David Van Goidtsnoven || next >>
 
